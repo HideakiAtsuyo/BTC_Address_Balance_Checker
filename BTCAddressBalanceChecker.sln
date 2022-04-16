@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCAddressBalanceChecker", "BTCAddressBalanceChecker\BTCAddressBalanceChecker.csproj", "{F90B9FB3-889A-4C50-9C12-EE5746991F7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F90B9FB3-889A-4C50-9C12-EE5746991F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F90B9FB3-889A-4C50-9C12-EE5746991F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F90B9FB3-889A-4C50-9C12-EE5746991F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F90B9FB3-889A-4C50-9C12-EE5746991F7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F712018-2799-4ADB-A650-33343B89020A}
+	EndGlobalSection
+EndGlobal
